@@ -39,6 +39,7 @@ function App() {
           )
         })}
       </ul>
+      <p>Made with Love by Alex</p>
     </>
   )
 }
